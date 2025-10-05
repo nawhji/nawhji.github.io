@@ -4,42 +4,31 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hey there 👋  
+I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/).
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I’m part of the [UAI Lab](https://sites.google.com/view/uailab/home) at UNIST, where I currently work as an undergraduate research intern.  
+I’m interested in **AI / Machine Learning**, and honestly — anything in computer science that looks fun or challenging.
+
+I love learning how things actually work behind the scenes, and I enjoy building small projects to test ideas in practice.  
+Sometimes I write about what I learn here.
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+    <li>Python / C / C++</li>
+    <li>PyTorch (Machine Learning & Deep Learning)</li>
+    <li>LaTeX (Research Writing)</li>
+    <li>Racket (Functional Programming)</li>
+    <li>HTML / CSS (Basic Web Development)</li>
+    <li>Git / GitHub (Version Control)</li>
+    <li>Languages: 한국어 (Native), English (Intermediate)</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+    <li><a href="https://github.com/nawhji">My GitHub Profile</a></li>
+    <!-- <li><a href="https://github.com/nawhji/nawhjipage">Personal Website (this page)</a></li> -->
+    <!-- <li><a href="https://github.com/nawhji">Other open-source projects on GitHub</a></li> -->
 </ul>
