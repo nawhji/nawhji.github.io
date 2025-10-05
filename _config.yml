@@ -1,14 +1,14 @@
 # main text of home
 title: "Sehyun Yun"
-bio: :>
+bio: ":>"
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: ":>"
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: /assets/images/sehyun_cropped.jpg
+picture: assets/images/sehyun_cropped.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -44,15 +44,15 @@ email: nawhji@gmail.com
 authors:
   sehyunyun:
     name: Sehyun Yun
-    bio: :>
+    bio: ":>"
     external-image: false
-    picture: /assets/images/sehyun_cropped.jpg
+    picture: assets/images/sehyun_cropped.jpg
     twitter: sehyunyun
   sehyunfoster:
     name: Sehyun Foster
-    bio: A Man who develops software with coffee
+    bio: ":>"
     external-image: false
-    picture: /assets/images/sehyun_cropped.jpg
+    picture: assets/images/sehyun_cropped.jpg
     twitter: sehyunfoster
 
 # do you want a larger site? change the option below
