@@ -42,7 +42,7 @@ Sometimes I write about what I learn here.
 <h2 style="color:#4b8fea;">Publications</h2>
 
 <ul>
-  <li><em>"Efficient LLM Adaptation"</em> — under review at a top-tier conference</li>
+  <li><em>"Topic: Efficient LLM Adaptation"</em> — under review at a top-tier conference</li>
 </ul>
 
 <hr style="margin-top: 40px;">
