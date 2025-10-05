@@ -22,7 +22,6 @@ resume-url: https://google.com/?q=my+resume
 
 url: https://nawhji.github.io
 baseurl: /nawhjipage
-# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
@@ -44,13 +43,13 @@ email: nawhji@gmail.com
 
 authors:
   sehyunyun:
-    name: Sehyun Yun
+    name: "Sehyun Yun"
     bio: ":>"
     external-image: false
     picture: /assets/images/sehyun_cropped.jpg
     twitter: sehyunyun
   sehyunfoster:
-    name: Sehyun Foster
+    name: "Sehyun Foster"
     bio: ":>"
     external-image: false
     picture: /assets/images/sehyun_cropped.jpg
