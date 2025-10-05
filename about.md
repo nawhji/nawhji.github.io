@@ -75,7 +75,7 @@ Sometimes I write about what I learn here.
 
 
 
-<h2 style="color:#4b8fea;">Rowing Experience 🚣‍♀️</h2>
+<h2 style="color:#4b8fea;">Rowing Experience</h2>
 
 <p><strong>Competitive Rower & Vice Captain (2023–2024)</strong><br>
 Represented UNIST at national and international competitions.</p>
