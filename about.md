@@ -13,18 +13,11 @@ I’m interested in **AI / Machine Learning**, and honestly — anything in comp
 I love learning how things actually work behind the scenes, and I enjoy building small projects to test ideas in practice.  
 Sometimes I write about what I learn here.
 
-<h2 style="color:#4b8fea;">Skills</h2>
+<h2 style="color:#4b8fea;">Publications</h2>
 
-<ul class="skill-list">
-    <li>Python / C / C++</li>
-    <li>PyTorch (Machine Learning & Deep Learning)</li>
-    <li>LaTeX (Research Writing)</li>
-    <li>Racket (Functional Programming)</li>
-    <li>HTML / CSS (Basic Web Development)</li>
-    <li>Git / GitHub (Version Control)</li>
-    <li>Languages: 한국어 (Native), English (Intermediate)</li>
+<ul>
+  <li><em>"Topic: Efficient LLM Adaptation"</em> — under review at a top-tier conference</li>
 </ul>
-
 
 <h2 style="color:#4b8fea;">Projects</h2>
 
@@ -40,12 +33,17 @@ Sometimes I write about what I learn here.
   <li>Deep Learning Project — <em>Ongoing</em></li>
 </ul>
 
-<h2 style="color:#4b8fea;">Publications</h2>
+<h2 style="color:#4b8fea;">Skills</h2>
 
-<ul>
-  <li><em>"Topic: Efficient LLM Adaptation"</em> — under review at a top-tier conference</li>
+<ul class="skill-list">
+    <li>Python / C / C++</li>
+    <li>PyTorch (Machine Learning & Deep Learning)</li>
+    <li>LaTeX (Research Writing)</li>
+    <li>Racket (Functional Programming)</li>
+    <li>HTML / CSS (Basic Web Development)</li>
+    <li>Git / GitHub (Version Control)</li>
+    <li>Languages: 한국어 (Native), English (Intermediate)</li>
 </ul>
-
 
 <h2 style="color:#4b8fea;">Teaching Assistant</h2>
 
@@ -87,7 +85,7 @@ Represented UNIST at national and international competitions.</p>
   <li>🥇 University Rowing Championship (Jul 2023) — Gold, Women’s Four</li>
   <li>🥇 Beach Rowing Championship (Aug 2023) — Gold, Women’s Four; Bronze, Ergometer</li>
   <li>🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer Single</li>
-  <li>🌏 Shenzhen Rowing Exchange (Dec 2023) — MOU and training with Shenzhen University</li>
+  <li>Shenzhen Rowing Exchange (Dec 2023) — MOU and training with Shenzhen University</li>
 </ul>
 
 <p>Developed endurance, teamwork, and leadership through high-level national events and mentorship roles.</p>
