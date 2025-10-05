@@ -69,7 +69,7 @@ Sometimes I write about what I learn here.
 
 
 
-<h2 style="color:#4b8fea;">Honors & Awards 🏅</h2>
+<h2 style="color:#4b8fea;">Honors & Awards</h2>
 
 <ul>
   <li><strong>Pre-UNISTAR Team Project (Feb 2023)</strong> — 1st Place, sustainable energy concept</li>
@@ -94,7 +94,7 @@ Represented UNIST at national and international competitions.</p>
 
 
 
-<h2 style="color:#4b8fea;">Media Coverage 📰</h2>
+<h2 style="color:#4b8fea;">Media Coverage</h2>
 
 <ul>
   <li><a href="https://news.unist.ac.kr/kor/20230224/" target="_blank">UNIST News — Pre-UNISTAR Team Project</a></li>
@@ -103,16 +103,19 @@ Represented UNIST at national and international competitions.</p>
   <li><a href="https://youtu.be/t6aKJZSQK8k?si=ss2GWQgQgAZxutub" target="_blank">UBC Documentary — Global University Rowing Festival</a></li>
 </ul>
 
-<h2 style="color:#4b8fea;">Others 🌟</h2>
+<h2 style="color:#4b8fea;">Others</h2>
 
 <ul>
   <!-- <li>📸 Orientation Photographer (INGAM, 2024) — Captured UNIST Freshman Orientation</li> -->
-  <li>📜 Certificate: <em>Neural Networks and Deep Learning (Coursera, 2025)</em> — 
+  <li>Certificate: <em>Neural Networks and Deep Learning (Coursera, 2025)</em> — 
     <a href="https://coursera.org/share/ab152904ca39850400d6031aa4ae5ec7" target="_blank">View Certificate</a></li>
 </ul>
 
 
-<hr style="margin-top: 40px;">
+<!-- <hr style="margin-top: 40px;">
 <p style="text-align:center; color:gray; font-size:0.9em;">
+  Last updated: {{ site.time | date: "%B %Y" }}
+</p> -->
+<p style="text-align:center; color:gray; font-size:0.9em; margin-top: 40px;">
   Last updated: {{ site.time | date: "%B %Y" }}
 </p>
