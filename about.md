@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}{{ site.picture }}{% endif %})
 
-Hey there 👋  
+Hi👋  
 I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/).
 
 I’m part of the [UAI Lab](https://sites.google.com/view/uailab/home) at UNIST, where I currently work as an undergraduate research intern.  
