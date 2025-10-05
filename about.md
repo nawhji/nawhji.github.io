@@ -29,7 +29,7 @@ Sometimes I write about what I learn here.
 <h2 style="color:#4b8fea;">Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/nawhji" target="_blank">My GitHub Profile</a></li>
+  <!-- <li><a href="https://github.com/nawhji" target="_blank">My GitHub Profile</a></li> -->
   <li><a href="https://github.com/nawhji/CSE331" target="_blank">Sorting Algorithms</a></li>
   <li><a href="https://github.com/nawhji/CSE331-2" target="_blank">TSP Algorithm</a></li>
   <li><a href="https://github.com/nawhji/crossfit_wod_analyzing" target="_blank">Crossfit WOD Analysis (k-means++)</a></li>
