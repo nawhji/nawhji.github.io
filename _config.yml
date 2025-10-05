@@ -19,7 +19,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 # Site URL (for GitHub Pages)
-url: "https://nawhji.github.io"
+url: https://nawhji.github.io
 baseurl: "/nawhjipage"
 
 permalink: /:title/
