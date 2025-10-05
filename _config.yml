@@ -21,7 +21,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://nawhji.github.io
-baseurl: /nawhjipage/
+baseurl: /nawhjipage
 
 permalink: blog/:title/
 
