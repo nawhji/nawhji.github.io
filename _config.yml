@@ -20,7 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://nawhji.github.io/nawhjipage/
+url: https://nawhji.github.io
+baseurl: /nawhjipage
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
