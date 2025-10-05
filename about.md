@@ -16,12 +16,15 @@ Sometimes I write about what I learn here.
 <h2 style="color:#4b8fea;">Skills</h2>
 
 <ul class="skill-list">
-  <li><strong>Languages:</strong> Python, C, C++</li>
-  <li><strong>Frameworks:</strong> PyTorch (Machine Learning & Deep Learning)</li>
-  <li><strong>Tools:</strong> Git / GitHub, LaTeX</li>
-  <li><strong>Other:</strong> Racket (Functional Programming), HTML / CSS (Basic Web Dev)</li>
-  <li><strong>Languages:</strong> 한국어 (Native), English (Intermediate)</li>
+    <li>Python / C / C++</li>
+    <li>PyTorch (Machine Learning & Deep Learning)</li>
+    <li>LaTeX (Research Writing)</li>
+    <li>Racket (Functional Programming)</li>
+    <li>HTML / CSS (Basic Web Development)</li>
+    <li>Git / GitHub (Version Control)</li>
+    <li>Languages: 한국어 (Native), English (Intermediate)</li>
 </ul>
+
 
 <h2 style="color:#4b8fea;">Projects</h2>
 
