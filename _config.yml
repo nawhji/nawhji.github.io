@@ -100,12 +100,27 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
+  - jekyll-relative-links
 
 compress_html:
   ignore:
     envs:
       - development
       - stage
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  hard_wrap: false
+  footnote_nr: 1
+  show_warnings: false
+
 
 exclude:
   [
