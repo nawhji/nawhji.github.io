@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://nawhji.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -36,24 +36,24 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
-instagram: myinstagram
+instagram: nawhji
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: nawhji
+email: nawhji@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  sehyunyun:
+    name: Sehyun Yun
+    bio: :>
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
+    picture: assets/images/sehyun_cropped.jpg
+    twitter: sehyunyun
+  sehyunfoster:
+    name: Sehyun Foster
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/sehyun.jpg
+    twitter: sehyunfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
