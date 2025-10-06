@@ -11,7 +11,6 @@ I’m part of the [UAI Lab](https://sites.google.com/view/uailab/home) at UNIST,
 I’m interested in **AI / Machine Learning**, and honestly — anything in computer science that looks fun or challenging.
 
 I love learning how things actually work behind the scenes, and I enjoy building small projects to test ideas in practice.  
-Sometimes I write about what I learn here.
 
 <h2 style="color:#4b8fea;">Publications</h2>
 
