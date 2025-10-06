@@ -1,9 +1,9 @@
 ---
 title: "HCI Term Project: Contactless Scroller(2024 Spring)"
 layout: post
-date: 2025-10-05 16:00
-image: 
-headerImage: false
+date: 2025-10-06 16:00
+image: /assets/images/contactless_scroller.png
+headerImage: true
 tag:
 - markdown
 - elements
@@ -14,6 +14,8 @@ description: Markdown summary with different options
 ---
 
 ## Project Overview
+
+![Contactless Scroller](/assets/images/contactless_scroller.png)
 <!-- 
 Contactless Scroller는 얼굴 표정과 머리 움직임을 활용한 비접촉 스크롤링 시스템입니다.
 마우스 휠, 터치스크린, 트랙패드처럼 기존 스크롤 방식에서 발생하는 불편함과 신체적 피로를 줄이기 위해 설계되었습니다. 카메라와 딥러닝 모델(YOLO로 머리 기울기 감지, DeepFace로 표정 분석)을 활용해 사용자의 자연스러운 행동에 따라 스크롤 방향과 속도를 동적으로 제어합니다. -->
@@ -34,9 +36,7 @@ It was designed to address the discomfort and physical strain caused by conventi
 I took the lead in **user studies** and **UI design improvements**.
 
 - Conducted user research that revealed key pain points in existing scrolling methods and gathered feedback on usability.
-
 - Translated this feedback into design changes, such as clearer ON/OFF states, customizable settings, and less intrusive camera use.
-
 - Iteratively refined the interface to make it more intuitive, convenient, and user-friendly.
 
 ## Key Takeaways
