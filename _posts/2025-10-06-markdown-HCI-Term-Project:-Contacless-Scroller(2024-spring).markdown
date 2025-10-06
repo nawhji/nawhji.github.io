@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - markdown
 - elements
-star: true
+star: false
 projects: true
 author: Sehyun
 description: Markdown summary with different options
