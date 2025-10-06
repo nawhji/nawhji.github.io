@@ -37,11 +37,11 @@ Sometimes I write about what I learn here.
 
 <ul class="skill-list">
     <li>Python / C / C++</li>
-    <li>PyTorch (Machine Learning & Deep Learning)</li>
-    <li>LaTeX (Research Writing)</li>
-    <li>Racket (Functional Programming)</li>
-    <li>HTML / CSS (Basic Web Development)</li>
-    <li>Git / GitHub (Version Control)</li>
+    <li>PyTorch</li>
+    <li>LaTeX</li>
+    <li>Racket</li>
+    <li>HTML / CSS</li>
+    <li>Git</li>
     <li>Languages: 한국어 (Native), English (Intermediate)</li>
 </ul>
 
@@ -57,9 +57,9 @@ Sometimes I write about what I learn here.
 <h2 style="color:#4b8fea;">Mentoring & Volunteering</h2>
 
 <ul>
-  <li>The Dream Campus (2024) — Rowing mentor for middle school students</li>
+  <li>The Dream Campus (2024) — Rowing mentor</li>
   <li>KT LAN School (2024) — Coding & academic mentoring</li>
-  <li>Elim Care Center (2024–Present) — After-school math tutor</li>
+  <li>Elim Together Care Center (2024) — Tutoring volunteer</li>
   <li>Science & Leadership Camps (2024) — Arduino robotics mentor</li>
   <li>Midam Together Center (2024) — Tutoring volunteer</li>
   <li>Rowing Leadership Program (2023) — Assistant instructor</li>
@@ -77,7 +77,7 @@ Sometimes I write about what I learn here.
 
 <h2 style="color:#4b8fea;">Rowing Experience</h2>
 
-<p><strong>Competitive Rower & Vice Captain (2023–2024)</strong><br>
+<p><strong>Rowing Athlete & Vice Captain (2023–2024)</strong><br>
 Represented UNIST at national and international competitions.</p>
 
 <ul>
@@ -88,9 +88,7 @@ Represented UNIST at national and international competitions.</p>
   <li>Shenzhen Rowing Exchange (Dec 2023) — MOU and training with Shenzhen University</li>
 </ul>
 
-<p>Developed endurance, teamwork, and leadership through high-level national events and mentorship roles.</p>
-
-
+<p>Competed in numerous other national and regional regattas, consistently achieving podium finishes!</p>
 
 <h2 style="color:#4b8fea;">Media Coverage</h2>
 
