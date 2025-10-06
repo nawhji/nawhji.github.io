@@ -22,7 +22,7 @@ I love learning how things actually work behind the scenes, and I enjoy building
 
 <ul>
   <!-- <li><a href="https://github.com/nawhji" target="_blank">My GitHub Profile</a></li> -->
-  <li>HCI Term Project: Contactless Scroller</li>
+  <li><a href="https://nawhji.github.io/blog/markdown-HCI-Term-Project-Contacless-Scroller(2024-spring)/" target="_blank">HCI Term Project: Contactless Scroller</a></li>
   <li><a href="https://github.com/nawhji/CSE331" target="_blank">Sorting Algorithms</a></li>
   <li><a href="https://github.com/nawhji/CSE331-2" target="_blank">TSP Algorithm</a></li>
   <li><a href="https://github.com/nawhji/crossfit_wod_analyzing" target="_blank">Crossfit WOD Analysis (k-means++)</a></li>
