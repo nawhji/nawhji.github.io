@@ -3,7 +3,7 @@ title: "HCI Term Project: Contactless Scroller(2024 Spring)"
 layout: post
 date: 2025-10-06 16:00
 image: /assets/images/contactless_scroller.png
-headerImage: true
+headerImage: false
 tag:
 - markdown
 - elements
