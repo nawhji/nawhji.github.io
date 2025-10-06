@@ -8,8 +8,8 @@ tag:
 - markdown
 - elements
 star: true
-category: projects
-author: johndoe
+projects: true
+author: Sehyun
 description: Markdown summary with different options
 ---
 
