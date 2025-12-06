@@ -35,12 +35,8 @@ I love learning how things actually work behind the scenes, and I enjoy building
 <h2 style="color:#4b8fea;">Skills</h2>
 
 <ul class="skill-list">
-    <li>Python / C / C++</li>
-    <li>PyTorch</li>
-    <li>LaTeX</li>
-    <li>Racket</li>
-    <li>HTML / CSS</li>
-    <li>Git</li>
+    <li>Python / C / C++ / Pytorch</li>
+    <li>LaTeX / Git / Docker</li>
     <li>Languages: 한국어 (Native), English (Intermediate)</li>
 </ul>
 
@@ -83,7 +79,6 @@ Represented UNIST at national and international competitions.</p>
   <li>🥇 Ulsan Global Rowing Festival (Aug 2024) — Gold, Women’s Four</li>
   <li>🥇 University Rowing Championship (Jul 2023) — Gold, Women’s Four</li>
   <li>🥇 Beach Rowing Championship (Aug 2023) — Gold, Women’s Four; Bronze, Ergometer</li>
-  <li>🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer Single</li>
   <li>Shenzhen Rowing Exchange (Dec 2023) — MOU and training with Shenzhen University</li>
 </ul>
 
