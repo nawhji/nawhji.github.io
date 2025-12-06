@@ -10,12 +10,12 @@ tag:
 star: false
 projects: true
 author: Sehyun
-description: Markdown summary with different options
+description: :)
 ---
 
 ## Project Overview
 
-![Contactless Scroller](/assets/images/contactless_scroller.png)
+<!-- ![Contactless Scroller](/assets/images/contactless_scroller.png) -->
 <!-- 
 Contactless Scroller는 얼굴 표정과 머리 움직임을 활용한 비접촉 스크롤링 시스템입니다.
 마우스 휠, 터치스크린, 트랙패드처럼 기존 스크롤 방식에서 발생하는 불편함과 신체적 피로를 줄이기 위해 설계되었습니다. 카메라와 딥러닝 모델(YOLO로 머리 기울기 감지, DeepFace로 표정 분석)을 활용해 사용자의 자연스러운 행동에 따라 스크롤 방향과 속도를 동적으로 제어합니다. -->
@@ -50,4 +50,4 @@ Through this project, I learned that continuous communication with users is the 
 
 This experience strengthened my skills in user research, unbiased interviewing, and practical UI/UX problem-solving, while also reinforcing the importance of collaboration within a team setting.
 
-👉 **For a detailed case study, please [see the full reports](https://drive.google.com/drive/folders/17OzpCIZdHkBB2WZ6IxyrWFtt-cqOLVts).**
+👉 **For a detailed case study, please [see the full reports](https://docs.google.com/document/d/1jPQX1zoWz-th158lh9V1V3_XPrhp1F8kQSsUEWWBSPI/edit?usp=sharing).**
