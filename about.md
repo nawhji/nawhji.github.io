@@ -25,7 +25,7 @@ I love learning how things actually work behind the scenes, and I enjoy building
   <li><a href="https://nawhji.github.io/blog/markdown-HCI-Term-Project-Contacless-Scroller(2024-spring)/" target="_blank">HCI Term Project: Contactless Scroller</a></li>
   <li><a href="https://github.com/nawhji/CSE331" target="_blank">Sorting Algorithms</a></li>
   <li><a href="https://github.com/nawhji/CSE331-2" target="_blank">TSP Algorithm</a></li>
-  <li><a href="https://github.com/nawhji/crossfit_wod_analyzing" target="_blank">Crossfit WOD Analysis (k-means++)</a></li>
+  <li><a href="https://github.com/nawhji/crossfit_wod_analyzing" target="_blank">Box to Box: Analyzing CrossFit WOD Variability with Structured Embeddings</a></li>
   <li><a href="https://github.com/mindolii/os20221044_20231233" target="_blank">PintOS Project</a></li>
   <li><a href="https://github.com/nawhji/speaker_diarization" target="_blank">Text-based Speaker Diarization with Contrastive Learning</a></li>
   <li><a href="https://github.com/DH-Koo/2025_Robotics_Project01" target="_blank">Robotics Project (Unity) — Ongoing</a></li>
