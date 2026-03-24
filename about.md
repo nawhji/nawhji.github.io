@@ -83,6 +83,7 @@ Represented UNIST at national and international competitions.</p>
   <li>🥉 Tangeumho Cup (Aug 2024) — Bronze, Women’s Quad & Four</li>
   <li>🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer</li>
   <li>🥈 Ulsan Mayor’s Cup (Jun 2023) — Silver, Team Ergometer</li>
+  <li>🥉 Ulsan Mayor’s Cup (Aug 2025) — Silver, Team Ergometer</li>
 
   <li>National Sports Festival (Oct 2023) — Official Participant</li>
   <li>Summer Training Camp (Jul 2023) — 1-month intensive training, Busan</li>
