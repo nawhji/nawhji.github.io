@@ -7,7 +7,7 @@ layout: page
 Hi👋  
 I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/).
 
-I’m part of the [UAI Lab](https://sites.google.com/view/uailab/home) at UNIST, where I currently work as an undergraduate research intern.  
+I was an undergraduate research intern at the [UAI Lab](https://sites.google.com/view/uailab/home) at UNIST (Jul 2025 – Mar 2026).
 I’m interested in **AI / Machine Learning**, and honestly — anything in computer science that looks fun or challenging.
 
 I love learning how things actually work behind the scenes, and I enjoy building small projects to test ideas in practice.  
@@ -29,7 +29,7 @@ I love learning how things actually work behind the scenes, and I enjoy building
   <li><a href="https://github.com/mindolii/os20221044_20231233" target="_blank">PintOS Project</a></li>
   <li><a href="https://github.com/nawhji/speaker_diarization" target="_blank">Text-based Speaker Diarization with Contrastive Learning</a></li>
   <li><a href="https://nawhji.github.io/blog/markdown-Robotics-Projects-with-Unity-Engine(2025-fall)/" target="_blank">Robotics Project (Unity)</a></li>
-  <li>Parallel Computing Project</li>
+  <li><a href="https://drive.google.com/file/d/1Ljcso0QFfUSO8iz5OKlFi2cCSyOFpXUq/view?usp=sharing" target="_blank">Efficient GPU Implementation of NTT via improved memory access </li>
 </ul>
 
 <h2 style="color:#4b8fea;">Skills</h2>
