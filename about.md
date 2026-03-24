@@ -76,18 +76,18 @@ I love learning how things actually work behind the scenes, and I enjoy building
 Represented UNIST at national and international competitions.</p>
 
 <ul>
-  <li>🥇 Ulsan Global Rowing Festival (Aug 2024) — Gold, Women’s Four</li>
-  <li>🥇 University Rowing Championship (Jul 2023) — Gold, Women’s Four (Team Champion)</li>
-  <li>🥇 Beach Rowing Championship (Aug 2023) — Gold, Women’s Four; Bronze, Ergometer</li>
+  <li style="margin-bottom: 8px;">🥇 Ulsan Global Rowing Festival (Aug 2024) — Gold, Women’s Four</li>
+  <li style="margin-bottom: 8px;">🥇 University Rowing Championship (Jul 2023) — Gold, Women’s Four (Team Champion)</li>
+  <li style="margin-bottom: 8px;">🥇 Beach Rowing Championship (Aug 2023) — Gold, Women’s Four; Bronze, Ergometer</li>
 
-  <li>🥉 Tangeumho Cup (Aug 2024) — Bronze, Women’s Quad & Four</li>
-  <li>🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer</li>
-  <li>🥈 Ulsan Mayor’s Cup (Jun 2023) — Silver, Team Ergometer</li>
-  <li>🥉 Ulsan Mayor’s Cup (Aug 2025) — Silver, Team Ergometer</li>
+  <li style="margin-bottom: 8px;">🥉 Tangeumho Cup (Aug 2024) — Bronze, Women’s Quad & Four</li>
+  <li style="margin-bottom: 8px;">🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer</li>
+  <li style="margin-bottom: 8px;">🥈 Ulsan Mayor’s Cup (Jun 2023) — Silver, Team Ergometer</li>
+  <li style="margin-bottom: 8px;">🥉 Ulsan Mayor’s Cup (Aug 2025) — Silver, Team Ergometer</li>
 
-  <li>National Sports Festival (Oct 2023) — Official Participant</li>
-  <li>Summer Training Camp (Jul 2023) — 1-month intensive training, Busan</li>
-  <li>Shenzhen Rowing Exchange (Dec 2023) — MOU & training with Shenzhen University</li>
+  <li style="margin-bottom: 8px;">Korean National Sports Festival (Oct 2023) — Official Participant</li>
+  <li style="margin-bottom: 8px;">Summer Training Camp (Jul 2023) — 1-month intensive training, Busan</li>
+  <li style="margin-bottom: 8px;">Shenzhen Rowing Exchange (Dec 2023) — MOU & training with Shenzhen University</li>
 </ul>
 
 <p>Competed in numerous other national and regional regattas, consistently achieving podium finishes!</p>
