@@ -28,8 +28,8 @@ I love learning how things actually work behind the scenes, and I enjoy building
   <li><a href="https://github.com/nawhji/crossfit_wod_analyzing" target="_blank">Box to Box: Analyzing CrossFit WOD Variability with Structured Embeddings</a></li>
   <li><a href="https://github.com/mindolii/os20221044_20231233" target="_blank">PintOS Project</a></li>
   <li><a href="https://github.com/nawhji/speaker_diarization" target="_blank">Text-based Speaker Diarization with Contrastive Learning</a></li>
-  <li><a href="https://github.com/DH-Koo/2025_Robotics_Project01" target="_blank">Robotics Project (Unity) — Ongoing</a></li>
-  <li>Parallel Computing Project — <em>Ongoing</em></li>
+  <li><a href="https://github.com/DH-Koo/2025_Robotics_Project01" target="_blank">Robotics Project (Unity)</a></li>
+  <li>Parallel Computing Project</li>
 </ul>
 
 <h2 style="color:#4b8fea;">Skills</h2>
@@ -54,7 +54,7 @@ I love learning how things actually work behind the scenes, and I enjoy building
 <ul>
   <li>The Dream Campus (2024) — Rowing mentor</li>
   <li>KT LAN School (2024) — Coding & academic mentoring</li>
-  <li>Elim Together Care Center (2024) — Tutoring volunteer</li>
+  <li>Elim Together Care Center (2024–Present) — Tutoring volunteer</li>
   <li>Science & Leadership Camps (2024) — Arduino robotics mentor</li>
   <li>Midam Together Center (2024) — Tutoring volunteer</li>
   <li>Rowing Leadership Program (2023) — Assistant instructor</li>
