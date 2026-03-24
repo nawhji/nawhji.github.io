@@ -29,7 +29,7 @@ I love learning how things actually work behind the scenes, and I enjoy building
   <li><a href="https://github.com/mindolii/os20221044_20231233" target="_blank">PintOS Project</a></li>
   <li><a href="https://github.com/nawhji/speaker_diarization" target="_blank">Text-based Speaker Diarization with Contrastive Learning</a></li>
   <li><a href="https://nawhji.github.io/blog/markdown-Robotics-Projects-with-Unity-Engine(2025-fall)/" target="_blank">Robotics Project (Unity)</a></li>
-  <li><a href="https://drive.google.com/file/d/1Ljcso0QFfUSO8iz5OKlFi2cCSyOFpXUq/view?usp=sharing" target="_blank">Efficient GPU Implementation of NTT via improved memory access</a></ul>
+  <li><a href="https://drive.google.com/file/d/1Ljcso0QFfUSO8iz5OKlFi2cCSyOFpXUq/view?usp=sharing" target="_blank">Efficient GPU Implementation of NTT via improved memory access</a></li>
 
 <h2 style="color:#4b8fea;">Skills</h2>
 
