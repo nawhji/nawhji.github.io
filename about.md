@@ -52,14 +52,13 @@ I love learning how things actually work behind the scenes, and I enjoy building
 <h2 style="color:#4b8fea;">Mentoring & Volunteering</h2>
 
 <ul>
-  <li>The Dream Campus (2024) — Rowing mentor</li>
-  <li>KT LAN School (2024) — Coding & academic mentoring</li>
-  <li>Elim Together Care Center (2024–Present) — Tutoring volunteer</li>
-  <li>Science & Leadership Camps (2024) — Arduino robotics mentor</li>
-  <li>Midam Together Center (2024) — Tutoring volunteer</li>
-  <li>Rowing Leadership Program (2023) — Assistant instructor</li>
+  <li>The Dream Campus (Apr 2024 – Dec 2024) — Rowing Mentor</li>
+  <li>KT LAN School (Jul 2024 – Dec 2024) — Coding and Academic Mentor</li>
+  <li>Elim Together Care Center (Oct 2024 – Present) — Tutoring Volunteer</li>
+  <li>Science & Leadership Camps (Sep 2024) — Arduino Robotics Mentor</li>
+  <li>Midam Together Center (Mar 2024 – May 2024) — Tutoring Volunteer</li>
+  <li>Rowing Leadership Program (Sep 2023 – Dec 2023) — Assistant Instructor</li>
 </ul>
-
 
 
 <h2 style="color:#4b8fea;">Honors & Awards</h2>
