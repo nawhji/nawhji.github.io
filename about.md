@@ -78,12 +78,13 @@ Represented UNIST at national and international competitions.</p>
 <ul>
   <li>🥇 Ulsan Global Rowing Festival (Aug 2024) — Gold, Women’s Four</li>
   <li>🥇 University Rowing Championship (Jul 2023) — Gold, Women’s Four (Team Champion)</li>
-  <li style="margin-bottom: 16px;">🥇 Beach Rowing Championship (Aug 2023) — Gold, Women’s Four; Bronze, Ergometer</li>
+  <li style="margin-bottom: 16px;">🥇🥉 Beach Rowing Championship (Aug 2023) — Gold, Women’s Four; Bronze, Ergometer</li>
 
-  <li>🥉 Tangeumho Cup (Aug 2024) — Bronze, Women’s Quad & Four</li>
-  <li>🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer</li>
   <li>🥈 Ulsan Mayor’s Cup (Jun 2023) — Silver, Team Ergometer</li>
-  <li style="margin-bottom: 16px;">🥉 Ulsan Mayor’s Cup (Aug 2025) — Silver, Team Ergometer</li>
+  <li>🥈 Ulsan Mayor’s Cup (Aug 2025) — Silver, Team Ergometer</li>
+  <li>🥈🥈 Beach Rowing Championship (Aug 2024) — Silver, Men’s Four(Cox); Silver, Team Ergometer</li>
+  <li>🥉 Tangeumho Cup (Aug 2024) — Bronze, Women’s Quad & Four</li>
+  <li style="margin-bottom: 16px;">🥉 Zhang Bogogi National Championship (Jul 2024) — Bronze, Ergometer</li>
 
   <li>Korean National Sports Festival (Oct 2023) — Official Participant</li>
   <li>Summer Training Camp (Jul 2023) — 1-month intensive training, Busan</li>
