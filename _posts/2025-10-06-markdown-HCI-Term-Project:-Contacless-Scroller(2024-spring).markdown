@@ -9,6 +9,7 @@ tag:
 - elements
 star: false
 projects: true
+category: blog
 author: Sehyun
 description: :)
 ---
