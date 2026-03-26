@@ -10,7 +10,7 @@ tags:
 - Automation
 - Shared Autonomy
 star: false
-category: blog
+category: projects
 projcets: true
 author: Sehyun
 Description: :)
