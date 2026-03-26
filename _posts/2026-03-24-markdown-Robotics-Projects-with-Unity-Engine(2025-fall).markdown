@@ -11,7 +11,7 @@ tags:
 - Shared Autonomy
 star: false
 category: projects
-projcets: true
+projects: true
 author: Sehyun
 Description: :)
 ---
