@@ -1,5 +1,5 @@
 ---
-title: "HCI Term Project: Contactless Scroller(2024 Spring)"
+title: "HCI Term Project: Contactless Scroller (Spring 2024)"
 layout: post
 date: 2025-10-06 16:00
 image: /assets/images/contactless_scroller.png
@@ -10,8 +10,8 @@ tag:
 star: false
 projects: true
 category: projects
-author: Sehyun
-description: :)
+author: sehyunyun
+description: "A hands-free scrolling system driven by facial expressions and head gestures, with a focus on user studies and UI design."
 ---
 
 ## Project Overview

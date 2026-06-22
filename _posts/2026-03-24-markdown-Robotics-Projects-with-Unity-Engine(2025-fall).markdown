@@ -12,8 +12,8 @@ tags:
 star: false
 category: projects
 projects: true
-author: Sehyun
-Description: :)
+author: sehyunyun
+description: "Three Unity-based robotics projects: inertia-aware path following and human-in-the-loop control."
 ---
 
 During Fall 2025, I worked on three robotics projects in Unity Engine.

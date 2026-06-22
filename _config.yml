@@ -1,18 +1,20 @@
 # main text of home
 title: "Sehyun Yun"
-bio: ":>"
+bio: "CS @ UNIST · AI / ML & Systems"
 
 # twitter summary info
-description: ":>"
+description: "Sehyun Yun — CS undergrad at UNIST working on efficient LLM adaptation, ML systems, and CUDA. Incoming exchange student at UC Berkeley."
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: /assets/images/sehyun_cropped.jpg
 
-# your site color theme, true for dark theme, 
-# false to light theme, auto to switch with system.
-dark-theme: false
+# Theme is handled by a runtime toggle button (see _layouts/default.html):
+# both light and dark stylesheets are emitted, dark follows the OS by default
+# via a media query, and the button lets visitors override + persist a choice.
+# This value is no longer read for theme selection.
+dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -39,21 +41,14 @@ disqus:
 instagram: nawhji
 linkedin: SehyunYun
 github: nawhji
-email: yoonsh0703@gmail.com
+email: nawhji@unist.ac.kr
 
 authors:
   sehyunyun:
     name: "Sehyun Yun"
-    bio: ":>"
+    bio: "CS @ UNIST · AI / ML & Systems"
     external-image: false
     picture: /assets/images/sehyun_cropped.jpg
-    twitter: sehyunyun
-  sehyunfoster:
-    name: "Sehyun Foster"
-    bio: ":>"
-    external-image: false
-    picture: /assets/images/sehyun_cropped.jpg
-    twitter: sehyunfoster
 
 include:
   - googlee8f32f200cd5253c.html
