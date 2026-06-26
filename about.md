@@ -24,7 +24,7 @@ I love learning how things work behind the scenes, and I enjoy building small pr
 <ul>
   <li><strong>EPnG: Adaptive Expert Prune-and-Grow for Parameter-Efficient MoE Fine-tuning</strong><br>
     Ahin Lee, <strong>Sehyun Yun</strong>, Taesik Gong<br>
-    <em>EIFCOM @ MobiSys 2026.</em> An adaptive expert prune-and-grow LoRA framework that reallocates adapter capacity from router-derived expert importance. Matches full fine-tuning while updating only 0.55%–0.72% of parameters (up to 140×–180× fewer).</li>
+    <em>EIFCOM @ MobiSys 2026.</em> <strong style="color:#d48806;">Best Paper Award 🏆</strong> An adaptive expert prune-and-grow LoRA framework that reallocates adapter capacity from router-derived expert importance. Matches full fine-tuning while updating only 0.55%–0.72% of parameters (up to 140×–180× fewer).</li>
   <li><strong>Parameter-efficient fine-tuning for Mixture-of-Experts LLMs</strong> — manuscript <em>under review at a top-tier conference</em> (ACL Rolling Review).</li>
 </ul>
 
