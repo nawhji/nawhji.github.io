@@ -6,7 +6,6 @@ layout: page
 
 Hi👋  
 I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/).
-Starting Fall 2026, I'll be an **incoming exchange student in Computer Science at [UC Berkeley](https://www.berkeley.edu/)**.
 
 I'm interested in **AI / Machine Learning** and **ML systems** — efficient LLM adaptation, parameter-efficient fine-tuning, and getting models to actually run fast on real hardware. Honestly, I'm drawn to anything in computer science that looks fun or challenging.
 
