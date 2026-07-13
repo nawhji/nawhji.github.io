@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}{{ site.picture }}{% endif %})
 
 Hi👋  
-I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/).
+I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/) and an incoming visiting student at [UC Berkeley](https://www.berkeley.edu/).
 
 I'm interested in **AI / Machine Learning** and **ML systems** — efficient LLM adaptation, parameter-efficient fine-tuning, and getting models to actually run fast on real hardware. Honestly, I'm drawn to anything in computer science that looks fun or challenging.
 
