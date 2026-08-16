@@ -7,14 +7,10 @@ layout: page
 Hi👋  
 I'm **Sehyun Yun**, studying **Computer Science and Engineering** at [UNIST](https://unist.ac.kr/) and an incoming visiting student at [UC Berkeley](https://www.berkeley.edu/).
 
-I'm interested in **AI / Machine Learning** and **ML systems** — efficient LLM adaptation, parameter-efficient fine-tuning, and getting models to actually run fast on real hardware. Honestly, I'm drawn to anything in computer science that looks fun or challenging.
-
-I love learning how things work behind the scenes, and I enjoy building small projects to test ideas in practice.
-
 <h2 style="color:#4b8fea;">Experience</h2>
 
 <ul>
-  <li><strong>AI Research Intern</strong> (Industry · May 2026 – Present) — Currently interning in industry. Building a Transformer-based ASR post-processing pipeline for real-time medical-consultation translation (TTS–ASR synthetic data, LoRA fine-tuning, terminology-focused evaluation), and profiling self-hosted vLLM serving for latency/throughput analysis.</li>
+  <li><strong>AI Research Intern</strong> (Industry · May 2026 – August 2026) — Built a Transformer-based ASR post-processing pipeline for real-time medical-consultation translation (TTS–ASR synthetic data, LoRA fine-tuning, terminology-focused evaluation).</li>
   <li><strong>Undergraduate Research Intern, <a href="https://sites.google.com/view/uailab/home" target="_blank">UAI Lab</a>, UNIST</strong> (Jun 2025 – Mar 2026) — Research on parameter-efficient fine-tuning for Mixture-of-Experts LLMs.</li>
 </ul>
 
@@ -31,10 +27,10 @@ I love learning how things work behind the scenes, and I enjoy building small pr
 <h2 style="color:#4b8fea;">Projects</h2>
 
 <ul>
-  <li><a href="https://drive.google.com/file/d/1Ljcso0QFfUSO8iz5OKlFi2cCSyOFpXUq/view?usp=sharing" target="_blank">CUDA NTT Optimization for Homomorphic Encryption</a> — Four-step NTT with Radix-4 / mixed-radix kernels, kernel fusion, and shared-memory tiled transpose; up to 1.53× speedup over One-Step Radix-4.</li>
-  <li><a href="https://github.com/nawhji/speaker_diarization" target="_blank">Text-based Speaker Diarization with Contrastive Learning</a> — Whisper ASR + T5-3B with a contrastive speaker-consistency loss; DER 47.15 → 41.12.</li>
+  <li><a href="https://drive.google.com/file/d/1Ljcso0QFfUSO8iz5OKlFi2cCSyOFpXUq/view?usp=sharing" target="_blank">CUDA NTT Optimization for Homomorphic Encryption</li>
+  <li><a href="https://github.com/nawhji/speaker_diarization" target="_blank">Text-based Speaker Diarization</li>
   <li><a href="https://nawhji.github.io/blog/markdown-Robotics-Projects-with-Unity-Engine(2025-fall)/" target="_blank">Unity Robot Navigation</a> — Inertia-aware path following (Pure Pursuit + PID) and human-in-the-loop control.</li>
-  <li><a href="https://github.com/mindolii/os20221044_20231233" target="_blank">PintOS Operating System Projects</a> — Thread scheduling, user-program syscalls, demand-paged virtual memory, and file-system extensions in C.</li>
+  <li><a href="https://github.com/mindolii/os20221044_20231233" target="_blank">PintOS Operating System Projects</li>
   <li><a href="https://nawhji.github.io/blog/markdown-HCI-Term-Project-Contacless-Scroller(2024-spring)/" target="_blank">HCI Term Project: Contactless Scroller</a></li>
   <li><a href="https://github.com/nawhji/crossfit_wod_analyzing" target="_blank">Box to Box: Analyzing CrossFit WOD Variability with Structured Embeddings</a></li>
   <li><a href="https://github.com/nawhji/CSE331" target="_blank">Sorting Algorithms</a> · <a href="https://github.com/nawhji/CSE331-2" target="_blank">TSP Algorithm</a></li>
@@ -44,7 +40,7 @@ I love learning how things work behind the scenes, and I enjoy building small pr
 
 <ul class="skill-list">
     <li><strong>Languages:</strong> Python / C / C++ / CUDA</li>
-    <li><strong>ML &amp; Systems:</strong> PyTorch / Hugging Face Transformers / PEFT / vLLM / OS kernel development / CUDA optimization</li>
+    <li><strong>ML &amp; Systems:</strong> PyTorch / Hugging Face / PEFT / vLLM</li>
     <li><strong>Tools:</strong> Git / Docker / Linux / Unity / LaTeX</li>
     <li><strong>Spoken:</strong> 한국어 (Native), English (Intermediate)</li>
 </ul>
@@ -52,14 +48,14 @@ I love learning how things work behind the scenes, and I enjoy building small pr
 <h2 style="color:#4b8fea;">Honors & Awards</h2>
 
 <ul>
-  <li><strong>Selected Scholar, Korea–U.S. Special Exchange Program for STEM Students (Fall 2026)</strong> — Government-sponsored STEM exchange scholarship supporting U.S. university study and advanced-industry programs.</li>
+  <li><strong>Selected Scholar, Korea–U.S. Special Exchange Program for STEM Students (Fall 2026)</strong></li>
   <li><strong>Pre-UNISTAR Team Project (Feb 2023)</strong> — 1st Place, sustainable energy concept.</li>
 </ul>
 
 <h2 style="color:#4b8fea;">Teaching Assistant</h2>
 
 <ul>
-  <li><strong>Living DX Course (2025 – 2026)</strong> — Advised LG employee teams on scoping, implementing, and debugging workflow-automation and data-visualization tools.</li>
+  <li><strong>Living DX Course (2025 – 2026)</strong></li>
   <li><strong>Logic (Spring, Fall 2025)</strong> — School of Liberal Arts, UNIST</li>
   <li><strong>Critical Thinking (Summer 2025)</strong> — School of Liberal Arts, UNIST</li>
 </ul>
